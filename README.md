@@ -243,4 +243,4 @@ This repository serves as the official landing page for Dragon Ball Z Dokkan Bat
 **Get the most recent version of Dragon Ball Z Dokkan Battle today!**
 
 ---
-**Last updated:** 2026-09-07 22:22:35 UTC
+**Last updated:** 2026-09-08 00:47:26 UTC
